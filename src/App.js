@@ -1,11 +1,11 @@
-import React, {useState, useEffect, useMemo} from "react";
+import React, {useState, useCallback} from "react";
+import ItemsList from "./hooks_study/items";
 
 function App() {
-    
     return (
-        <div>
-            
-        </div>
+        <>            
+                  
+        </>
     )
 }
 
