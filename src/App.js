@@ -1,12 +1,10 @@
-import React, {useState, useCallback} from "react";
-import ItemsList from "./hooks_study/items";
+import React from "react";
+
 
 function App() {
-    return (
-        <>            
-                  
-        </>
-    )
+    <div>
+        
+    </div>
 }
 
 export default App;
